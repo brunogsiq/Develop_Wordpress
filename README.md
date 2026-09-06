@@ -24,3 +24,5 @@ Otimizar o desempenho do WordPress é crucial. Aprenda técnicas para melhorar a
 
 ### Publicação de Conteúdo 📝
 Entenda como criar, editar e gerenciar conteúdo de maneira eficiente. Dicas para organizar suas postagens e páginas para uma melhor experiência do usuário.
+
+Mensagem teste - Deverá ser apagada após documentação completa
